@@ -12,9 +12,9 @@ func main() {
 
 	//Check if the entered number is even
 	if number%2 == 0 {
-		fmt.Println(number, "çift")
+		fmt.Println(number, "even")
 	} else {
-		fmt.Println(number, "tek")
+		fmt.Println(number, "odd")
 
 	}
 
