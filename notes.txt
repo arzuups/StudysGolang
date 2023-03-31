@@ -15,3 +15,4 @@ fmt.Printf("data type : %T" , kdv3)*/
 =>Used to assign one "=" value.
 =>The use of "\" allows the output of the code to be written one below the other in the terminal.
 =>By saying go mod init and typing a module name you can create a module.
+=>
