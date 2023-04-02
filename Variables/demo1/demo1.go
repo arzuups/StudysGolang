@@ -31,5 +31,9 @@ func Demo1() {
 	stuatio = text1 == text2
 
 	    fmt.Println(stuatio)
+	
+	kdv3 =: 39.4
+	fmt.Println(kdv3)
+	fmt.Printf("veri tipi : %T" , kdv3)
 
 }
