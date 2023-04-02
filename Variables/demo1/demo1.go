@@ -33,7 +33,7 @@ func Demo1() {
 	    fmt.Println(stuatio)
 	
 	kdv3 =: 39.4
-	fmt.Println(kdv3)
-	fmt.Printf("veri tipi : %T" , kdv3)
+	     fmt.Println(kdv3)
+	         fmt.Printf("veri tipi : %T" , kdv3)
 
 }
