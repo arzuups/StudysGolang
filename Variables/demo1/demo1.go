@@ -34,6 +34,6 @@ func Demo1() {
 	
 	kdv3 =: 39.4
 	     fmt.Println(kdv3)
-	         fmt.Printf("veri tipi : %T" , kdv3)
+	         fmt.Printf("data type : %T" , kdv3)
 
 }
