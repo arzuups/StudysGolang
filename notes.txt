@@ -17,3 +17,4 @@ fmt.Printf("data type : %T" , kdv3)*/
 =>By saying go mod init and typing a module name you can create a module.
 =>"!=" means is text1 != different from text2 ?
 =>The "main" package is the starting point of the Go program and the "main()" function in the "main" package runs the program.
+=>
