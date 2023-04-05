@@ -25,3 +25,4 @@ If => The "if" construct checks if the specified condition is true and if so, ex
 Else ıf => The "else if" structure checks the next condition if the condition of the previous "if" structure is false.It is used when more than one condition needs to be checked.
 Else =>The "else" construct specifies a block of code that will be executed if no conditions are met. This construct has no conditions and can only be used once. */
 
+=>
