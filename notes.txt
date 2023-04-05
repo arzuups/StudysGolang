@@ -4,7 +4,7 @@
 =>"fmt.Println" prints the terminal results, one below the other.
 
 /*We can create a folder using "mkdir". 
-We can also display the folder in the terminal using the cd command.
+We can also display the folder in the terminal using the "cd" command.
 Example:
 C:\> mkdir goWorks
 C:\> cd goWorks */
