@@ -1,11 +1,13 @@
 package main
 
 import (
-	"fmt"
-	"gostudys/variables"
+	"goStudys/conditionals"
 )
 
 func main() {
-	variables.Study1()
-	fmt.Print()
+	//variables.Demo1()
+	//fmt.Print()
+	//conditionals.Demo1()
+	//conditionals.Demo2()
+	conditionals.Workshop1()
 }
