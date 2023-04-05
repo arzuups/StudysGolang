@@ -19,4 +19,4 @@ fmt.Printf("data type : %T" , kdv3)*/
 =>"!=" means is text1 != different from text2 ?
 =>The condition in the "if" block is always written in parentheses.
 =>"fmt.Sprintf" is a function that provides formatting functionality.
-
+=>
