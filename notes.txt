@@ -1,17 +1,17 @@
-=>=>The "main" package is the starting point of the Go program and the "main()" function in the "main" package runs the program.
+=>The "main" package is the starting point of the Go program and the "main()" function in the "main" package runs the program.
 =>"fmt.Print" prints the terminal results side by side.
 =>With the "fmt.Printf" function we can insert variables between textual sections.
 =>"fmt.Println" prints the terminal results, one below the other.
 
-/*We can create a folder using "mkdir". 
+/* We can create a folder using "mkdir". 
 We can also display the folder in the terminal using the "cd" command.
 Example:
 C:\> mkdir goWorks
 C:\> cd goWorks */
 
-/*%T => Means type.is used to find out which data type the function is. 
+/* %T => Means type.is used to find out which data type the function is. 
 Example:
-fmt.Printf("data type : %T" , kdv3)*/
+fmt.Printf("data type : %T" , kdv3) */
 
 =>Used to assign one "=" value.
 =>The use of "\" allows the output of the code to be written one below the other in the terminal.
@@ -23,6 +23,6 @@ fmt.Printf("data type : %T" , kdv3)*/
 /* IF - ELSE IF - ELSE
 If => The "if" construct checks if the specified condition is true and if so, executes the specified block of code.
 Else ıf => The "else if" structure checks the next condition if the condition of the previous "if" structure is false.It is used when more than one condition needs to be checked.
-Else =>The "else" construct specifies a block of code that will be executed if no conditions are met. This construct has no conditions and can only be used once. */
+Else => The "else" construct specifies a block of code that will be executed if no conditions are met. This construct has no conditions and can only be used once. */
 
 =>
