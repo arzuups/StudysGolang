@@ -1,7 +1,9 @@
 package conditionals
 
-import "fmt"
-
+import (
+	"fmt"
+)
+	
 func Workshop1() {
 	var num1, num2, num3 int = 12, 45, 23
 
