@@ -12,5 +12,5 @@ func main() {
 	//conditionals.Workshop1()
 
 	//loops.Demo1()
-	loops.Demo2()
+	//loops.Demo2()
 }
