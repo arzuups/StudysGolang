@@ -18,7 +18,7 @@ func Workshop1() {
 
 		if estimatedNumber > myNumber {
 			fmt.Println("Enter the smaller number:")
-			fmt.Scanln(&estimatedNumber) //85
+			fmt.Scanln(&estimatedNumber) 
 		}
 	}
 
