@@ -1,6 +1,6 @@
 package loops
 
-import "fmt"
+import ("fmt"
 
 func Workshop2() {
 	number := 0
