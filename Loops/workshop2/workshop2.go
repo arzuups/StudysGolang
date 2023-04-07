@@ -1,3 +1,3 @@
 package loops
 
-func
+func Workshop2
