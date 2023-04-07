@@ -2,7 +2,7 @@ package loops
 
 import ( 
 	"fmt"
-
+)
 	
 func Workshop2() {
 	number := 0
