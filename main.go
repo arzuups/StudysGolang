@@ -2,7 +2,6 @@ package main
 
 import (
 	"goStudys/loops"
-)
 
 func main() {
 	//variables.Demo1()
