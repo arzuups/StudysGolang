@@ -1,5 +1,5 @@
 package loops
 
-func Workshop4() {
+func Workshop3() {
   
 }
