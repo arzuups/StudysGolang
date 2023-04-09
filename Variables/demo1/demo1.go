@@ -8,6 +8,10 @@ import (
 func Demo1() {
 
 	//The "string" function is used for textual data.
+	//"10", "Olivia", "Harvard University" etc..
+        //The value "10" of type int and the value "10" of type string are never the same value.
+        //variablename := value -> 3rd variable definition method
+        //var test string = "Test"
 	var text string = "Hello World..."
 	    fmt.Print(text)
 	    fmt.Print(text)
