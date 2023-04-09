@@ -7,7 +7,9 @@ Output : There are 4 "100" elements, 2 "20" elements, 1 "30" element.*/
 
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 	arr := []int{30, 60, 40, 70, 30, 50, 10, 80, 40, 50, 70, 20}
