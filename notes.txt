@@ -31,4 +31,3 @@ Else ıf => The "else if" structure checks the next condition if the condition o
 Else => The "else" construct specifies a block of code that will be executed if no conditions are met. This construct has no conditions and can only be used once. */
 
 =>"For" means infinite loop.
-
