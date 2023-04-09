@@ -1,3 +1,6 @@
 StudysGolang
 -------------------------------------------------------
-- These are the studies I did to learn the Golang Programming Language == https://github.com/a1zuws/StudysGolang
+- Module Creation :
+``` C:\Users\JET\Desktop\StudysGolang> go mod init <module name> ```
+
+- Create A Folder : ``` C:\> mkdir goWorks --> C:\> cd goWorks ```
