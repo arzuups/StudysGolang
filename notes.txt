@@ -1,6 +1,6 @@
 =>The "main" package is the starting point of the Go program and the "main()" function in the "main" package runs the program.
 =>"func" keyword is used to define a function in Go.
-
+=>
 =>"fmt.Print" prints the terminal results side by side.
 =>With the "fmt.Printf" function we can insert variables between textual sections.
 =>"fmt.Println" prints the terminal results, one below the other.
