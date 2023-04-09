@@ -32,6 +32,7 @@ func Demo1() {
 	    fmt.Println(number)
 
 	//Represents true or false. If you do not specify any value, the default is zero.
+	//var variablename variabletype -> 4th variable definition method
 	
 	var stuatio bool
 
