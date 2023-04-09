@@ -2,7 +2,9 @@
 
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 	arr := []int{29, 8, 5, 15, 32, 18, 1, 40, 63, 34}
