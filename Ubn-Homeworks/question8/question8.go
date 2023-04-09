@@ -11,7 +11,9 @@ Note-3: Underweight if body mass index < 18.5
 
 package main
 
-import "fmt"
+import ( 
+	"fmt"
+)
 
 func main() {
 	//Get weight and height information from user
