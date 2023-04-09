@@ -27,7 +27,7 @@ func Demo1() {
 	//The data types "float32" or "float64" are used for decimal numbers.
 	//float32 data type can hold fractional numbers.
         //102.5, -43.567 vs.
-	
+	//var variablename variabletype = value -> 3rd variable definition method
 	var number float32 = 25.3
 	    fmt.Println(number)
 
