@@ -1,8 +1,5 @@
 package loops
 
-func Workshop3() {
-  package loops
-
 import (
 	"fmt"
 )
