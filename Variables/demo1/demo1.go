@@ -15,6 +15,8 @@ func Demo1() {
 	    fmt.Println(text)
 
 	//The "int" data type is used for natural numbers.
+	//-5,-3,10,0,23456 etc.
+        //var variablename variabletype = value -> 2nd variable definition method
 	var age int = 20
 	    fmt.Println(age)
 
