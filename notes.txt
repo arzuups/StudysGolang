@@ -14,7 +14,9 @@ C:\> cd goWorks */
 
 /* %T => Means type.is used to find out which data type the function is. 
 Example:
-fmt.Printf("data type : %T" , kdv3) */
+kdv3 =: 39.4
+	     fmt.Println(kdv3)
+	         fmt.Printf("data type : %T" , kdv3) */
 
 =>Used to assign one "=" value.
 =>The use of "\" allows the output of the code to be written one below the other in the terminal.
