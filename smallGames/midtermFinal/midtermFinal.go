@@ -30,7 +30,7 @@ func main() {
 	     //If the user wants to perform another calculation, go back to the beginning
  	     if answer == "Yes" {
 
-		  //Finish if the user does not want to perform another calculation
+            //Finish if the user does not want to perform another calculation
 	   } else if answer == "No" {
 		   fmt.Println("The transaction is complete. Thank you.")
 
