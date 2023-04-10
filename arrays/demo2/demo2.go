@@ -1,8 +1,10 @@
 
 package arrays
 
-import "fmt"
-
+import (
+	"fmt"
+)
+	
 func Demo2() {
 
 	var cities [5]string
