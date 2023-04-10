@@ -33,4 +33,8 @@ Else => The "else" construct specifies a block of code that will be executed if 
 =>"For" means infinite loop.
 =>"Arrays" are used to hold data of the same data type.
 =>
-=>In arrays, the counting number starts from 0.
+/*In arrays, the counting number starts from 0.
+       var numbers [5] int
+       number [2] = 80
+              fmt.Println(numbers)
+                  Terminal Output == [0,1,2,3,4] */
