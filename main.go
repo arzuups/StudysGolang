@@ -11,5 +11,7 @@ func main() {
 	//loops.Demo2()
 	//loops.Workshop1()
 	//loops.Workshop2()
-	loops.Workshop3()
+	//loops.Workshop3()
+	
+	arrays.Demo1()
 }
