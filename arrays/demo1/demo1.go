@@ -2,7 +2,7 @@
 package arrays
 
 import (
-	"fmt"
+    "fmt"
 )
 	
 func Demo1() {
