@@ -1,8 +1,10 @@
 /*You need to run main.go to print to the terminal.*/
 package arrays
 
-import "fmt"
-
+import (
+	"fmt"
+)
+	
 func Demo1() {
 
 	var numbers [5]float32
