@@ -28,7 +28,6 @@ func main() {
 	     fmt.Scanln(&answer)
  
 	     //If the user wants to perform another calculation, go back to the beginning
-
  	     if answer == "Yes" {
 
 		  //Finish if the user does not want to perform another calculation
