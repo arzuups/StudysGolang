@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
-
+import (
+	"fmt"
+)
+	
 func main() {
 
 	//Get the student's midterm and final grade
