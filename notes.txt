@@ -32,4 +32,5 @@ Else => The "else" construct specifies a block of code that will be executed if 
 
 =>"For" means infinite loop.
 =>"Arrays" are used to hold data of the same data type.
+=>
 =>In arrays, the counting number starts from 0.
