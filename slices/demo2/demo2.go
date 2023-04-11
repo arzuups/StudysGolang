@@ -1,3 +1,3 @@
 package slices
 
-func Demo2()
+func Demo2() {
