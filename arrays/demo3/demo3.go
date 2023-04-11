@@ -1,3 +1,3 @@
 package arrays
 
-func
+func Demo3
