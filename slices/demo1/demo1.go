@@ -1,3 +1,3 @@
 package slices
 
-func
+func Demo1
