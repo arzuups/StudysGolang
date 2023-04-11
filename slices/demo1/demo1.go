@@ -15,5 +15,6 @@ func Demo1() {
 	names[3] = "Jack"
 	names = append(names, "Cristiano")
 	fmt.Println(names)
+	fmt.Println(len(names))
   
 }
