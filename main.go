@@ -1,7 +1,7 @@
 package main
 
 import (
-	"goStudys/arrays"
+	"goStudys/slices"
 )
 
 func main() {
