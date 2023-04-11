@@ -1,5 +1,9 @@
 package main
 
+import (
+	"goStudys/arrays"
+)
+
 func main() {
 	//variables.Demo1()
 
