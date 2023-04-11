@@ -16,5 +16,5 @@ func main() {
 	//arrays.Demo1()
 	//arrays.Demo2()
 	//arrays.Demo3()
-	arrays.
+	arrays.Demo4
 }
