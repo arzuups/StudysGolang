@@ -1,3 +1,5 @@
 package arrays
 
-func Demo4()
+func Demo4() {
+  
+  
