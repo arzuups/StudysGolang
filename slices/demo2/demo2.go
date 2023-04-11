@@ -1,1 +1,3 @@
 package slices
+
+func
