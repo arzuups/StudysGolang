@@ -1,7 +1,9 @@
 package arrays
 
-import ("fmt"
+import (
+	"fmt"
 
+	
 func Demo3() {
 
 	numbers := [5]int{13, 54, 23, 64, 87}
