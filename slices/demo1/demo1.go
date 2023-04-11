@@ -10,5 +10,6 @@ func Demo1() {
 	fmt.Println(names)
 	
 	names[0] = "Michale"
+	names[1] = "Olivia"
   
 }
