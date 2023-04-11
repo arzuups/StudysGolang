@@ -4,6 +4,7 @@ import "fmt"
 
 func Demo4() {
 
+	//Multidimensional arrays
 	var numbers [2][3]int
 
 	numbers[0][0] = 1
