@@ -1,6 +1,8 @@
 package arrays
 
-import ("fmt"
+import (
+	"fmt"
+	
 
 func Demo4() {
 
