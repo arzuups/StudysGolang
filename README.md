@@ -6,4 +6,4 @@ StudysGolang
 - Create A Folder : 
 ``` C:\> mkdir goWorks --> C:\> cd goWorks ```
 
-- Terminal Output: ``` C:\Users\Desktop\StudysGolang> go run main.go ```
+- Terminal Output: ``` C:\Users\StudysGolang> go run main.go ```
