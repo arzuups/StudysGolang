@@ -8,5 +8,6 @@ func Demo2() {
   fmt.Println(namesCopy)
   copy(namesCopy, names)
   fmt.Println(namesCopy)
+  names = append(names, "Berrica")
   
 }
