@@ -1,7 +1,7 @@
 package main
 
 import (
-	"goStudys/slices"
+	"goStudys/functions"
 )
 
 func main() {
