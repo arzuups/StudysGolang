@@ -9,7 +9,7 @@ func Demo2() {
   copy(namesCopy, names)
   fmt.Println(namesCopy)
   names = append(names, "Berrica")
+  fmt.Println(names)
   fmt.Println(namesCopy)
-
   
 }
