@@ -1,6 +1,6 @@
 package slices
 
-import
+import (
 
 func Demo2() {
   
