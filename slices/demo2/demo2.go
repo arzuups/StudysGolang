@@ -2,7 +2,8 @@ package slices
 
 import (
       "fmt"
-
+)
+      
 func Demo2() {
   
   names := []string{"Jack", "Olivia", "Robert"}
