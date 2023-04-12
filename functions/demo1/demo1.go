@@ -1,3 +1,3 @@
 package functions
 
-func Demo1()
+func Demo1() {
