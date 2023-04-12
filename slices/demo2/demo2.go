@@ -14,5 +14,6 @@ func Demo2() {
   
   fmt.Println(names[1:3])
   fmt.Println(names[1:])
+  fmt.Println(names[:2])
   
 }
