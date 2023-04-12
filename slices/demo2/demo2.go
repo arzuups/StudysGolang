@@ -1,7 +1,7 @@
 package slices
 
 import (
-      "fmt"
+        "fmt"
 )
       
 func Demo2() {
