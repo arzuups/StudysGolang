@@ -12,4 +12,6 @@ func Demo2() {
   fmt.Println(names)
   fmt.Println(namesCopy)
   
+  
+  
 }
