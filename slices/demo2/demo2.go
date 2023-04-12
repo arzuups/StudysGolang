@@ -7,5 +7,6 @@ func Demo2() {
   namesCopy := make([]string, len(names))
   fmt.Println(namesCopy)
   copy(namesCopy, names)
+  fmt.Println(namesCopy)
   
 }
