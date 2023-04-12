@@ -13,5 +13,6 @@ func Demo2() {
   fmt.Println(namesCopy)
   
   fmt.Println(names[1:3])
+  fmt.Println(names[1:])
   
 }
