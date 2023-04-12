@@ -37,7 +37,7 @@ Else => The "else" construct specifies a block of code that will be executed if 
        var numbers [5] int
        number [2] = 80
               fmt.Println(numbers)
-                  Terminal Output == [0,0,8,0,0] */
+                  Terminal Output == [0,0,80,0,0] */
 		  
 =>Use ":=" to assign a variable.
 =>The "Append" function creates a new slice-array.
