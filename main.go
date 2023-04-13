@@ -26,5 +26,6 @@ func main() {
 	//slices.Demo2()
 	
 	var conclusion = functions.Collect(13, 98)
+	fmt.Println(conclusion)
 	functions.Hello()
 }
