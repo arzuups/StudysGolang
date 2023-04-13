@@ -2,7 +2,7 @@
 package loops
 
 import (
-  "fmt"
+	"fmt"
 )
 
 func Demo1() {
