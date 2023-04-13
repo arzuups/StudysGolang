@@ -5,7 +5,7 @@ import (
 )
 
 func Collect(num1 int, num2 int) int {
-       var sum = 
+       var sum = num1
   
   
 }
