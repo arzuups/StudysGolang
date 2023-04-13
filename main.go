@@ -27,5 +27,5 @@ func main() {
 	
 	/*var conclusion = functions.Collect(13, 98)
 	fmt.Println(conclusion)*/
-	functions.Hello(("Don't give up")
+	functions.Hello(("Don't give up!")
 }
