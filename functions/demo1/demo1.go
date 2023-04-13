@@ -1,7 +1,7 @@
 package functions
 
 import (
-       "fmt"
+	"fmt"
 )
 
 func Collect(num1 int, num2 int) int {
