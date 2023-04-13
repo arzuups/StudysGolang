@@ -25,7 +25,7 @@ func main() {
 	//slices.Demo1()
 	//slices.Demo2()
 	
-	/var conclusion = functions.Collect(13, 98)
+	/*var conclusion = functions.Collect(13, 98)
 	fmt.Println(conclusion)*/
 	//functions.Hello(("Don't give up!")
 }
