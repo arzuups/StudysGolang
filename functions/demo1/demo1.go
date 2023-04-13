@@ -10,5 +10,5 @@ func Collect(num1 int, num2 int) int {
 }
 
 func Hello(username string) {
-       fmt.Println("Hello everyone" , )
+       fmt.Println("Hello everyone" , username)
 }
