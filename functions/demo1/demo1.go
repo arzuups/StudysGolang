@@ -1,5 +1,5 @@
 package functions
 
-func Demo1() {
+func Sum() {
   
 }
