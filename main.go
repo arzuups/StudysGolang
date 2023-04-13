@@ -25,5 +25,5 @@ func main() {
 	//slices.Demo1()
 	//slices.Demo2()
 	
-	functions.Demo1()
+	functions.Collect()
 }
