@@ -26,5 +26,5 @@ func main() {
 	//slices.Demo2()
 	
 	//functions.Collect()
-	functions.Hello(
+	functions.Hello()
 }
