@@ -32,5 +32,5 @@ func main() {
 	fmt.Println("Total :", conclusion1)
 	fmt.Println("Extraction :", conclusion2)
 	fmt.Println("Multiplication :", conclusion3)
-	fmt.Println("Partition:", conclusion4)
+	fmt.Println("Partition:", conclusion4)*
 }
