@@ -30,4 +30,5 @@ func main() {
 	//functions.Hello(("Don't give up!")
 	conclusion1, conclusion2, conclusion3, conclusion4 := functions.FourOperations(34, 98)
 	fmt.Println("Total :", conclusion1)
+	fmt.Println("Extraction :", conclusion2)
 }
