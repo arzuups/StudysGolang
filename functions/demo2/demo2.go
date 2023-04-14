@@ -7,4 +7,6 @@ func FourOperations(num1 int, num2 int) (int, int, int, float32) {
   multiplication := num1 * num2
   partition := float32(num1 / num2)
   
+  return total, extraction, multiplication, partition
+  
 }
