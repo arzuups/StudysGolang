@@ -9,4 +9,3 @@ func FourOperations(num1 int, num2 int) (int, int, int, float32) {
   
   return total, extraction, multiplication, partition
   
-
