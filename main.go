@@ -36,5 +36,4 @@ func main() {
 	fmt.Println("Multiplication :", conclusion3)
 	fmt.Println("Partition:", conclusion4)*/
 	
-	functions.totalVaria
 }
