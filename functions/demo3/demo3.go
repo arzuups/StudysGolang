@@ -1,5 +1,5 @@
 package functions
 
-func totalVariadic() {
+func totalVariadic(numbers) {
   
 }
