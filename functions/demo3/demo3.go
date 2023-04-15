@@ -2,6 +2,6 @@ package functions
 
 func totalVariadic(numbers ... int) {
   
-  sum :=
+  sum := 0 
   
 }
