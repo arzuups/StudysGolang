@@ -1,3 +1,3 @@
 package functions
 
-func
+func totalVariadic
