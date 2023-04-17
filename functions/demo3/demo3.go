@@ -5,5 +5,5 @@ func TotalVariadic(numbers ...int) int {
     for i := 0; i < len(numbers); i++ {
         sum = sum + numbers[i]
     }
-  return
+  return sum
 }
