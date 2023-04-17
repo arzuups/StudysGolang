@@ -1,3 +1,3 @@
 package main
 
-func Demo1
+func Demo1()
