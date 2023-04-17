@@ -14,5 +14,5 @@ func Demo1() {
 	Dictionary["Notebook"] = "Not Defteri"
 	
 	fmt.Println(Dictionary)
-  
+        fmt.Println("Number of elements:", len(Dictionary)) //If we want to print the number of elements
 }
