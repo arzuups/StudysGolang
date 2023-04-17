@@ -13,6 +13,6 @@ func Demo1() {
 	Dictionary["Pencil"] = "Kalem"
 	Dictionary["Notebook"] = "Not Defteri"
 	
-	
+	fmt.Println(Dictionary)
   
 }
