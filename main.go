@@ -33,6 +33,6 @@ func main() {
 	fmt.Println("Partition:", conclusion4)*/
 	
 	//for_range.Demo1()
-	for_range.Demo2()
+	//for_range.Demo2()
 	
 }
