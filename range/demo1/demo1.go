@@ -1,3 +1,3 @@
 package range
 
-func Demo1()
+func Demo1() {
