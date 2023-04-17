@@ -1,3 +1,3 @@
 package for_range
 
-func Demo3()
+func Demo3() {
