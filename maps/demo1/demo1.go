@@ -1,6 +1,7 @@
 package main
 
-import
+import ( 
+      "fmt"
 
 func Demo1() {
   
