@@ -40,7 +40,6 @@ func main() {
 	fmt.Println(functions.TotalVariadic(numbers...))*/
 
 	//maps.Demo1()
-	
 
 	//for_range.Demo1()
 	//for_range.Demo2()
