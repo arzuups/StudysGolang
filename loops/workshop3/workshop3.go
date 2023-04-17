@@ -31,5 +31,3 @@ func Workshop3() {
 	}
 
 }
-
-}
