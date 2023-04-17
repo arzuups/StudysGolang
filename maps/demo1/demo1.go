@@ -9,5 +9,6 @@ func Demo1() {
 	Dictionary := make(map[string]string)
 	Dictionary["Table"] = "Masa"
 	Dictionary["Book"] = "Kitap"
+	Dictionary["Pencil"] = "Kalem"
   
 }
