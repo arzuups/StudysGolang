@@ -40,7 +40,7 @@ func main() {
 	fmt.Println(functions.TotalVariadic(numbers...))*/
 
 	//maps.Demo1()
-	//maps.Demo1("Number of elements:", len(dictionary)) //If we want to print the number of elements
+	
 
 	//for_range.Demo1()
 	//for_range.Demo2()
