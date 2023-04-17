@@ -1,5 +1,5 @@
 package functions
 
-func Demo3() {
+func TotalVariadic() {
   
 }
