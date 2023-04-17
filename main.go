@@ -36,6 +36,6 @@ func main() {
 	fmt.Println("Multiplication :", conclusion3)
 	fmt.Println("Partition:", conclusion4)*/
 	
-	for_range.Demo1()
+	//for_range.Demo1()
 	
 }
