@@ -1,5 +1,5 @@
 package functions
 
-func TotalVariadic() {
+func TotalVariadic(numbers ...int) int {
   
 }
