@@ -34,6 +34,6 @@ func main() {
 	
 	//for_range.Demo1()
 	//for_range.Demo2()
-	//for_range.
+	//for_range.Demo3
 	
 }
