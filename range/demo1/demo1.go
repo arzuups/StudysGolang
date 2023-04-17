@@ -1,3 +1,3 @@
 package range
 
-
+func
