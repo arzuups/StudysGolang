@@ -9,5 +9,5 @@ func Demo1() {
 
 	var numbers [5]float32
 	numbers[3] = 23.7
-	fmt.Println(numbers[3])
+	fmt.Println(numbers[3]) 
 }
