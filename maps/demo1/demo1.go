@@ -11,5 +11,6 @@ func Demo1() {
 	Dictionary["Table"] = "Masa"
 	Dictionary["Book"] = "Kitap"
 	Dictionary["Pencil"] = "Kalem"
+	Dictionary["Notebook"] = "Not Defteri"
   
 }
