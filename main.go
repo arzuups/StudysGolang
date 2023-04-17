@@ -1,9 +1,5 @@
 package main
 
-import (
-	"goStudys/functions"
-)
-
 func main() {
 	//variables.Demo1()
 
