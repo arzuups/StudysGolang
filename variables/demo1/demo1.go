@@ -42,7 +42,7 @@ func Demo1() {
 
 	    fmt.Println(stuatio)
 	
-	kdv3 =: 39.4
+	kdv3 := 39.4
 	     fmt.Println(kdv3)
 	         fmt.Printf("data type : %T" , kdv3)
 
