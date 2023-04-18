@@ -1,3 +1,5 @@
 package structs
 
-func Demo1()
+func Demo1() {
+  
+}
