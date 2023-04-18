@@ -45,5 +45,5 @@ func main() {
 	//for_range.Demo2()
 	//for_range.Demo3()
 	
-	pointers.Demo1
+	pointers.Demo1()
 }
