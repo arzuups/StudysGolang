@@ -1,5 +1,5 @@
 package pointers
 
-func Demo1(number) {
+func Demo1(number int) {
   
 }
