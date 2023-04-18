@@ -1,3 +1,3 @@
 package pointers
 
-func
+func Demo1
