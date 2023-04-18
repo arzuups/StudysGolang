@@ -49,6 +49,6 @@ func main() {
 	pointers.Demo1(&number)
 	fmt.Println("The number in Main:", number)*/
 	
-	structs.Demo1()
+	//structs.Demo1()
 
 }
