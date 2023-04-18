@@ -1,1 +1,3 @@
 package pointers
+
+func
