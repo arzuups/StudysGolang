@@ -45,8 +45,8 @@ func main() {
 	//for_range.Demo2()
 	//for_range.Demo3()
 	
-	number := 140
+	/*number := 140
 	pointers.Demo1(&number)
-	fmt.Println("The number in Main:", number)
+	fmt.Println("The number in Main:", number)*/
 
 }
