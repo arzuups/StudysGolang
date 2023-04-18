@@ -1,6 +1,6 @@
 package pointers
 
 func Demo1(number *int) {
-  *number = *number
+  *number = *number + 1
   
 }
