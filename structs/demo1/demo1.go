@@ -7,5 +7,6 @@ func Demo1() {
 type product struct{
   name string
   unitPrice float64
+  bland string
   
 }
