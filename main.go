@@ -46,5 +46,5 @@ func main() {
 	//for_range.Demo3()
 	
 	number := 140
-	pointers.Demo1()
+	pointers.Demo1(&number)
 }
