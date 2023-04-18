@@ -1,3 +1,3 @@
 package structs
 
-func
+func Demo1
