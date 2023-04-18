@@ -1,3 +1,3 @@
 package structs
 
-func Demo1(product{
+func Demo1(product{"Telephone" , 
