@@ -48,5 +48,7 @@ func main() {
 	/*number := 140
 	pointers.Demo1(&number)
 	fmt.Println("The number in Main:", number)*/
+	
+	structs.Demo1()
 
 }
