@@ -5,5 +5,6 @@ func Demo1() {
 }
 
 type product struct{
+  name string
   
 }
