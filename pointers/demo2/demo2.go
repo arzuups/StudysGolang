@@ -1,3 +1,5 @@
 package pointers
 
-func Demo2()
+func Demo2() {
+  
+}
