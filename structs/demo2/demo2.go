@@ -19,4 +19,4 @@ func (a customer) save() {
 }
 
 func Demo2() {
-	a := customer{firstname: "Joseph"
+	a := customer{firstname: "Joseph" , lastname: "Smith"
