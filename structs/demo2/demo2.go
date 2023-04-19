@@ -5,3 +5,5 @@ import (
 )
 
 type customer struct {
+	
+}
