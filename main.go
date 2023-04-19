@@ -51,5 +51,10 @@ func main() {
 	
 	//structs.Demo1()
 	//structs.Demo2()
+	
+	/*go goroutines.EvenNumbers()
+	go goroutines.OddNumbers()
+	time.Sleep(10 * time.Second)
+	fmt.Println("Main finished!")*/
 
 }
