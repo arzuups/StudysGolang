@@ -4,4 +4,4 @@ import (
 	"fmt"
 )
 
-type customer struct
+type customer struct {
