@@ -9,3 +9,5 @@ type customer struct {
 	lastName string
 	age int
 }
+
+func
