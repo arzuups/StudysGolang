@@ -6,4 +6,5 @@ import (
 
 type customer struct {
 	firstName string
+	lastName
 }
