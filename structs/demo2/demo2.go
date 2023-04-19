@@ -7,5 +7,5 @@ import (
 type customer struct {
 	firstName string
 	lastName string
-	age
+	age int
 }
