@@ -18,4 +18,4 @@ func (a customer) save() {
 	fmt.Println("Updated  : ", a.firstName)
 }
 
-func Demo2()
+func Demo2() {
