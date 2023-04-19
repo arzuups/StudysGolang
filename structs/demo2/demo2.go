@@ -15,5 +15,5 @@ func (a customer) save() {
 }
 
 func (a customer) save() {
-	fmt.Println()
+	fmt.Println("Updated  : ", a.firstName)
 }
