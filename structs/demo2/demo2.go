@@ -14,4 +14,4 @@ func (a customer) save() {
 	fmt.Println("Added : ", a.firstName)
 }
 
-func (a customer
+func (a customer)
