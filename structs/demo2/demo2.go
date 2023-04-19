@@ -13,3 +13,5 @@ type customer struct {
 func (a customer) save() {
 	fmt.Println("Added : ", a.firstName)
 }
+
+func
