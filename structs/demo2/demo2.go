@@ -5,5 +5,5 @@ import (
 )
 
 type customer struct {
-	firstName
+	firstName string
 }
