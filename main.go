@@ -50,6 +50,6 @@ func main() {
 	fmt.Println("The number in Main:", number)*/
 	
 	//structs.Demo1()
-	structs.Demo2()
+	//structs.Demo2()
 
 }
