@@ -1,1 +1,5 @@
 package structs
+
+import (
+	"fmt"
+)
