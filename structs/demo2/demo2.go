@@ -10,4 +10,4 @@ type customer struct {
 	age int
 }
 
-func (a customer)
+func (a customer) save
