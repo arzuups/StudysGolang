@@ -20,3 +20,4 @@ func (a customer) save() {
 
 func Demo2() {
 	a := customer{firstname: "Joseph" , lastname: "Smith" , age: 30}
+	a.save()
