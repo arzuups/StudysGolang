@@ -19,4 +19,4 @@ func (a customer) save() {
 }
 
 func Demo2() {
-	a := 
+	a := customer
