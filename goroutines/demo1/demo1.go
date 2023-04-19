@@ -12,3 +12,12 @@ func EvenNumbers() {
 	}
 
 }
+
+func OddNumbers() {
+	for i := 1; i <= 10; i += 2 {
+		fmt.Println("Odd number : ", i)
+		time.Sleep(1 * time.Second)
+
+	}
+
+}
