@@ -11,5 +11,5 @@ type customer struct {
 }
 
 func (a customer) save() {
-	
+	fmt.Println
 }
