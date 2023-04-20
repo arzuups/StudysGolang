@@ -4,3 +4,7 @@ import (
 	"fmt"
 	"math"
 )
+
+type shape interface {
+	area() float64
+}
