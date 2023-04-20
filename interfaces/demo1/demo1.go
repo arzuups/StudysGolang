@@ -16,3 +16,7 @@ type rectangle struct{
 type circle struct{
     radius float64
 }
+
+func (r rectangle) area() float64 {
+	return r.height * r.width
+}
