@@ -28,3 +28,7 @@ func (c circle) area() float64 {
 func school(s shape) {
 	fmt.Println("Shape space :", s.area())
 }
+
+func Demo1() {
+	r := rectangle{width: 20, height: 15}
+	school(r)
