@@ -32,3 +32,7 @@ func school(s shape) {
 func Demo1() {
 	r := rectangle{width: 20, height: 15}
 	school(r)
+
+        c := circle{radius: 10}
+	school(c)
+}
