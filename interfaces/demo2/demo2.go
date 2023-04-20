@@ -2,7 +2,7 @@
 package interfaces
 
 import (
-	"fmt"
+	"fmt" 
 )
 
 type Mortgage struct {
