@@ -1,6 +1,6 @@
 package interfaces
 
 import (
-  "fmt"
+        "fmt"
 	"math"
 )
