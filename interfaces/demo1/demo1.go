@@ -9,4 +9,6 @@ type shape interface {
 	area() float64
 }
 
-type rectangle struct
+type rectangle struct{
+	
+}
