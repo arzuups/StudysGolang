@@ -24,3 +24,7 @@ func (r rectangle) area() float64 {
 func (c circle) area() float64 {
 	return math.Pi * c.radius * c.radius
 }
+
+func school(s shape) {
+	fmt.Println("Shape space :", s.area())
+}
