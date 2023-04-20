@@ -56,5 +56,16 @@ func main() {
 	go goroutines.OddNumbers()
 	time.Sleep(10 * time.Second)
 	fmt.Println("Main finished!")*/
+	
+	/*evenNumberCn := make(chan int)
+	oddNumberCn := make(chan int)
+	go channels.EvenNumbers(evenNumberCn)
+	go channels.OddNumbers(oddNumberCn)
+
+	evenNumberSum, oddNumberSum := <-evenNumberCn, <-oddNumberCn
+
+	multiplication := evenNumberSum * oddNumberSum
+	fmt.Println("Multiplication : ", multiplication)*/
+
 
 }
