@@ -12,3 +12,5 @@ type shape interface {
 type rectangle struct{
     width , height float64
 }
+
+type
