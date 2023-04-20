@@ -20,3 +20,7 @@ type circle struct{
 func (r rectangle) area() float64 {
 	return r.height * r.width
 }
+
+func (c circle) area() float64 {
+	return math.Pi * c.radius * c.radius
+}
