@@ -6,9 +6,9 @@ import (
 )
 
 type shape interface {
-	area() float64
+    area() float64
 }
 
 type rectangle struct{
-	width , height float64
+    width , height float64
 }
