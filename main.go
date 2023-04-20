@@ -68,5 +68,5 @@ func main() {
 	fmt.Println("Multiplication : ", multiplication)*/
 
 	//interfaces.Demo1()
-	//
+	//interfaces
 }
