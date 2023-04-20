@@ -8,3 +8,5 @@ import (
 type shape interface {
 	area() float64
 }
+
+type
