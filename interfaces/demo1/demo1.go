@@ -14,5 +14,5 @@ type rectangle struct{
 }
 
 type circle struct{
-
+    radius
 }
