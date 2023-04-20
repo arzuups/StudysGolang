@@ -13,4 +13,6 @@ type rectangle struct{
     width , height float64
 }
 
-type circle
+type circle struct{
+
+}
