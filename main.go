@@ -67,5 +67,5 @@ func main() {
 	multiplication := evenNumberSum * oddNumberSum
 	fmt.Println("Multiplication : ", multiplication)*/
 
-        //
+        //interfaces.
 }
