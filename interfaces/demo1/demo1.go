@@ -10,5 +10,5 @@ type shape interface {
 }
 
 type rectangle struct{
-	
+	width
 }
