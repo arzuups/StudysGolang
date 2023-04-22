@@ -1,5 +1,5 @@
 package defer_statement
 
 func A() {
-  fmt.Println(")
+  fmt.Println(""A" function worked")
 } 
