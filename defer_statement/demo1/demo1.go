@@ -1,3 +1,3 @@
 package defer_statement
 
-func
+func A
