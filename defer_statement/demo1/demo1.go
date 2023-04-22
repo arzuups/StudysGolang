@@ -9,3 +9,4 @@ func A()
 } 
 
 func B()
+fmt.
