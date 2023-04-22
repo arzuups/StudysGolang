@@ -8,6 +8,6 @@ func A() {
   fmt.Println("A function worked!")
 } 
 
-func B()
-fmt.Println("B function worked!)
-	    }
+func B() { 
+  fmt.Println("B function worked!)
+}
