@@ -5,7 +5,7 @@ import (
 )
 
 func A() 
-  fmt.Println(""A" function worked!")
+  fmt.Println("A function worked!")
 } 
 
 func B()
