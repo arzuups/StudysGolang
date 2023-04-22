@@ -20,5 +20,5 @@ func C() {
 }
 	      
 func D() {
-	
+	fmt.Println
 }
