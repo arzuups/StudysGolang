@@ -5,9 +5,10 @@ import (
 )
 
 func A() {
+	defer B()
   fmt.Println("A function worked!")
 } 
 
-func B() { 
+func B() {
   fmt.Println("B function worked!)
 }
