@@ -70,5 +70,5 @@ func main() {
 	//interfaces.Demo1()
 	//interfaces.Demo2()
 	
-	//defer_statement
+	//defer_statement.
 }
