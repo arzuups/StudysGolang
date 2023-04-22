@@ -18,3 +18,7 @@ func B() {
 func C() {
   fmt.Println("C function worked!")
 }
+	      
+func D() {
+	
+}
