@@ -1,6 +1,6 @@
 package defer_statement
 
-package
+import
 
 func A() {
   fmt.Println(""A" function worked!")
