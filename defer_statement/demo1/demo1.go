@@ -12,7 +12,7 @@ func A() {
 } 
 
 func B() {
-  fmt.Println("B function worked!)
+  fmt.Println("B function worked!")
 }
 	      
 func C() {
