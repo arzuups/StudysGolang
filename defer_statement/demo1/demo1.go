@@ -7,6 +7,7 @@ import (
 func A() {
 	defer B()
 	defer C()
+	defer D()
   fmt.Println("A function worked!")
 } 
 
