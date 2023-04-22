@@ -9,4 +9,4 @@ func A()
 } 
 
 func B()
-fmt.
+fmt.Prinltn()
