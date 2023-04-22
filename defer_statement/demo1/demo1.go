@@ -4,6 +4,8 @@ import (
 	"fmt"
 )
 
-func A() {
+func A() 
   fmt.Println(""A" function worked!")
 } 
+
+func
