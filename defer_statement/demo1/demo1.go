@@ -9,4 +9,4 @@ func A()
 } 
 
 func B()
-  fmt.Println()
+fmt.Println("B function worked!)
