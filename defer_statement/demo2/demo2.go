@@ -16,5 +16,5 @@ func Demo2(number int32) string {
 	    return "This is odd number!"
 	}
 	
-	return
+	return "It is not clear!"
 }
