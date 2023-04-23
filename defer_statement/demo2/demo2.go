@@ -22,3 +22,4 @@ func Demo2(number int32) string {
 func Test() {
 	conclusion := Demo2(9)
 	fmt.Println(conclusion)
+}
