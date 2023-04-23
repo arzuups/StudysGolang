@@ -13,3 +13,5 @@ func (p product) Save() {
     fmt.Println("Product saved :" , p.productName)	
     defer Log()
 }
+
+func
