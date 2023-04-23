@@ -26,3 +26,4 @@ func Test() {
 
 func DeferFunc() {
 	fmt.Println("Finish!")
+}
