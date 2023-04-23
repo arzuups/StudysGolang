@@ -71,5 +71,5 @@ func main() {
 	//interfaces.Demo2()
 	
 	//defer_statement.A()
-	//defer_statement.Test()
+	//defer_statement.TestDemo2()
 }
