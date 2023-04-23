@@ -1,6 +1,8 @@
 package defer_statement
 
-import 
+import (
+ "fmt"
+)
  
 func Demo2(number int32) string {
   
