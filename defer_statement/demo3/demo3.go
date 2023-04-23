@@ -24,4 +24,5 @@ func Demo3() {
 	
 	fmt.Println("Operation successful!")
 	fmt.Println(p.productName)
+	defer
 }
