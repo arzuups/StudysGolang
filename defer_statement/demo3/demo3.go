@@ -19,5 +19,5 @@ func Log() {
 }
 
 func Demo3() {
-	p := product{productName: "Telephone" }
+	p := product{productName: "Telephone" ,  }
 }
