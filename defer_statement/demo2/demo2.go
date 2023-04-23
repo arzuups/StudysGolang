@@ -1,3 +1,3 @@
 package defer_statement
 
-func A2(
+func A2(number
