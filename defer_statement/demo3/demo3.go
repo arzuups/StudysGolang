@@ -9,4 +9,6 @@ type product struct {
     unitPrice int
 }
 
-func (p product) Save()
+func (p product) Save() {
+	
+}
