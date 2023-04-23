@@ -1,7 +1,7 @@
 package defer_statement
 
 import (
- "fmt"
+	"fmt"
 )
  
 func Demo2(number int32) string {
