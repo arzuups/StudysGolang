@@ -23,5 +23,5 @@ func Demo3() {
 	p = product{productName: "Powerbank" , unitPrice: 350}
 	
 	fmt.Println("Operation successful!")
-	fmt.Println()
+	fmt.Println(p.productName)
 }
