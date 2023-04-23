@@ -11,4 +11,6 @@ func Demo2(number int32) string {
 	if number%2 == 0 {
 	    return "This is even number!"
 	}
+	
+	if number%2 != 0
 }
