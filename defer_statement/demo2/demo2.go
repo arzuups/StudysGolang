@@ -24,4 +24,4 @@ func Test() {
 	fmt.Println(conclusion)
 }
 
-func DeferFunc()
+func DeferFunc() {
