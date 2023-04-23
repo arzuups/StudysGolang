@@ -18,4 +18,4 @@ func Log() {
     fmt.Println("Logged!")	
 }
 
-func Demo3
+func Demo3()
