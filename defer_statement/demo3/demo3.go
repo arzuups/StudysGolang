@@ -10,5 +10,5 @@ type product struct {
 }
 
 func (p product) Save() {
-	
+    fmt.Println 	
 }
