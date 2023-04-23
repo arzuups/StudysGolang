@@ -17,3 +17,5 @@ func (p product) Save() {
 func Log() {
     fmt.Println("Logged!")	
 }
+
+func
