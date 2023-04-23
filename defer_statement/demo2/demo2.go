@@ -14,4 +14,5 @@ func Demo2(number int32) string {
 	
 	if number%2 != 0 {
 	    return "This is odd number!"
+	}
 }
