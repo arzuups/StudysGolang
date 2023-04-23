@@ -25,3 +25,4 @@ func Test() {
 }
 
 func DeferFunc() {
+	fmt.
