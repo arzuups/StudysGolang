@@ -14,4 +14,6 @@ func (p product) Save() {
     defer Log()
 }
 
-func Log()
+func Log() {
+	
+}
