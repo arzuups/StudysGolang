@@ -1,5 +1,5 @@
 package defer_statement
  
-func A2(number int32) string {
+func Demo2(number int32) string {
   
 }
