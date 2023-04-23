@@ -11,4 +11,5 @@ type product struct {
 
 func (p product) Save() {
 	fmt.Println("Product saved :" , p.productName)	
+	defer
 }
