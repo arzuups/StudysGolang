@@ -19,7 +19,7 @@ func Demo2(number int32) string {
 	return "It is not clear!"
 }
 
-func Test() {
+func TestDemo2() {
 	conclusion := Demo2(9)
 	fmt.Println(conclusion)
 }
