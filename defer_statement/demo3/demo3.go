@@ -21,4 +21,6 @@ func Log() {
 func Demo3() {
 	p := product{productName: "Telephone" , unitPrice: 17000}
 	p = product{productName: "Powerbank" , unitPrice: 350}
+	
+	fmt
 }
