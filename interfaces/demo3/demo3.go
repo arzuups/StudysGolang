@@ -13,4 +13,6 @@ func verify(i interface{}) {
 func Demo3() {
     var number1 interface{} = "Julia"
     verify(number1)
+	
+    var number2 interface{} = 20
 }
