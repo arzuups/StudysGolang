@@ -7,5 +7,7 @@ import (
 
 func Demo1() {
 	f,err := os.Open("demo1.txt")
+	
+	if
 
 }
