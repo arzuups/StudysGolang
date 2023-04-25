@@ -7,3 +7,5 @@ import (
 
 func verify(i interface{}) {
     number, ok := i.(int)
+    fmt.Println(number, ok)
+}
