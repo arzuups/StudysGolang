@@ -6,6 +6,6 @@ import (
 )
 
 func Demo1() {
-	f,err :=
+	f,err := os
 
 }
