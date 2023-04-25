@@ -9,7 +9,7 @@ func Demo1() {
 	f,err := os.Open("demo1.txt")
 	
 	if err != nil{
-		fmt.Println()
+		fmt.Println("")
 	
 	}
 
