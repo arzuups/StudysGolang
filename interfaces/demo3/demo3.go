@@ -9,3 +9,7 @@ func verify(i interface{}) {
     number, ok := i.(int)
     fmt.Println(number, ok)
 }
+
+func Demo3() {
+
+}
