@@ -5,4 +5,4 @@ import (
 	"os"
 )
 
-func Demo1
+func Demo1(
