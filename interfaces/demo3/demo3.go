@@ -15,4 +15,5 @@ func Demo3() {
     verify(number1)
 	
     var number2 interface{} = 20
+    verify(number2)
 }
