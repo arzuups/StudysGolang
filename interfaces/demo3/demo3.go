@@ -4,3 +4,5 @@ package interfaces
 import (
 	"fmt"
 )
+
+func verify(i interface{}) {
