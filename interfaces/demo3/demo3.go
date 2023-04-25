@@ -11,5 +11,5 @@ func verify(i interface{}) {
 }
 
 func Demo3() {
-
+    var number1 interface{} = "Julia"
 }
