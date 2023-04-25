@@ -10,6 +10,7 @@ func Demo1() {
 	
 	if err != nil{
 		fmt.Println("File not found!")
+	} else {
 	
 	}
 
