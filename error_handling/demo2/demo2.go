@@ -10,5 +10,9 @@ func Demo2() {
 	f, err := os.Open("demo2.txt")
 	
 	if err != nil {
+		if pErr, ok := err.(*os.PathError); ok {
+			fmt.Println("File not found!", pErr.Path)
+			return
+		} 
 
 }
