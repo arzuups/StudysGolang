@@ -1,4 +1,2 @@
 /*You need to run main.go to print to the terminal.*/
-func() {
-
-}
+package interfaces
