@@ -6,4 +6,4 @@ import (
 	"os"
 )
 
-func
+func Demo2()
