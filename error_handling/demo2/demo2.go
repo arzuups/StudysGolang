@@ -17,5 +17,8 @@ func Demo2() {
 			fmt.Println("File not found!")
 			return
 		}
+	} else {
+		fmt.Println(f.Name())
+	}
 
 }
