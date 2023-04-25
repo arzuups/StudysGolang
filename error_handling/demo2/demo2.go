@@ -13,6 +13,9 @@ func Demo2() {
 		if pErr, ok := err.(*os.PathError); ok {
 			fmt.Println("File not found!", pErr.Path)
 			return
-		} 
+		} else {
+			fmt.Println("File not found!")
+			return
+		}
 
 }
