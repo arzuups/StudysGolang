@@ -6,3 +6,4 @@ import (
 )
 
 func verify(i interface{}) {
+    number, ok := i.(int)
