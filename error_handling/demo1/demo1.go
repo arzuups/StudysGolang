@@ -6,6 +6,6 @@ import (
 )
 
 func Demo1() {
-	f,err := os
+	f,err := os.Open
 
 }
