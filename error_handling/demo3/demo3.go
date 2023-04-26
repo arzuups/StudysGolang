@@ -21,3 +21,4 @@ func predict(predict int) (string, error) {
 }
 
 func Demo3() {
+	message,
