@@ -5,4 +5,6 @@ import (
 	"fmt"
 )
 
-func predict(predict int) (string, error)
+func predict(predict int) (string, error) {
+
+}
