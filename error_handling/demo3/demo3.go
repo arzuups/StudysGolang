@@ -23,3 +23,4 @@ func predict(predict int) (string, error) {
 func Demo3() {
 	message, error := predict(80)
 	fmt.Println(message, error)
+}
