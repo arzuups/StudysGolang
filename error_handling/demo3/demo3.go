@@ -8,5 +8,7 @@ import (
 func predict(predict int) (string, error) {
 	
 	numberInMind := 80
+	
+	if predict < 1 || predict > 100 {
 
 }
