@@ -4,11 +4,12 @@ import (
 	"fmt"
 )
 
-type borderException struct{
+type borderException struct {
 	parameter int
 	message string
 }
 
-func (b borderException) Error() string{
+func (b borderException) Error() string {
+	return
 
 }
