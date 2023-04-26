@@ -8,3 +8,5 @@ type borderException struct{
 	parameter int
 	message string
 }
+
+func (b borderException)
