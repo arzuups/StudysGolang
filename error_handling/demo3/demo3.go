@@ -7,6 +7,6 @@ import (
 
 func predict(predict int) (string, error) {
 	
-	numberInMind
+	numberInMind := 80
 
 }
