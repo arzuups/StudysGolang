@@ -5,6 +5,7 @@ import (
 )
 
 type borderException struct{
+	parameter
 
 
 }
