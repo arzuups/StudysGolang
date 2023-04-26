@@ -18,4 +18,4 @@ func Predict2(predict int) (string, error) {
 		return "" , &borderException{predict, "Out of bounds!"}
 	}
 	return "You know", nil
-	
+}
