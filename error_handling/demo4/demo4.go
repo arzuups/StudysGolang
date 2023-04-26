@@ -16,5 +16,6 @@ func (b borderException) Error() string {
 func Predict2(predict int) (string, error) {
 	if predict < 1 || predict > 100 {
 		return "" , &borderException{predict, "Out of bounds!"}
+	}
 	
 	
