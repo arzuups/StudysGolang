@@ -17,6 +17,8 @@ func predict(predict int) (string, error) {
 	    return "Enter a smaller number :", nil
         }
 	
+	if predict < numberInMind {
+	
 	return "You know!", nil
 }
 
