@@ -78,5 +78,5 @@ func main() {
 	//error_handling.Demo1()
 	//error_handling.Demo2()
 	//error_handling.Demo3()
-	//fmt.Println(error_handling
+	//fmt.Println(error_handling.Predict2
 }
