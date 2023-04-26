@@ -4,4 +4,4 @@ import (
 	"fmt"
 )
 
-type borderException
+type borderException struct
