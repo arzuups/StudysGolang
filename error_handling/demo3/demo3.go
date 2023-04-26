@@ -5,4 +5,4 @@ import (
 	"fmt"
 )
 
-func predict(predict int)
+func predict(predict int) (string
