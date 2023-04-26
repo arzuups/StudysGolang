@@ -12,3 +12,5 @@ type borderException struct {
 func (b borderException) Error() string {
 	return fmt.Sprintf("%d---%s", b.parameter, b.message)
 }
+
+func Predict2
