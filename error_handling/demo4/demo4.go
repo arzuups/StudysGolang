@@ -10,6 +10,6 @@ type borderException struct {
 }
 
 func (b borderException) Error() string {
-	return
+	return fmt.
 
 }
