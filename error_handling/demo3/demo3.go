@@ -20,4 +20,4 @@ func predict(predict int) (string, error) {
 	return "You know!", nil
 }
 
-func Demo3
+func Demo3()
