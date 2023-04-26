@@ -6,5 +6,7 @@ import (
 )
 
 func predict(predict int) (string, error) {
+	
+	numberInMind
 
 }
