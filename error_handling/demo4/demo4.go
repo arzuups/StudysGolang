@@ -4,4 +4,4 @@ import (
 	"fmt"
 )
 
-type
+type borderException
