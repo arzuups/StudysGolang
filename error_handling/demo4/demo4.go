@@ -9,4 +9,6 @@ type borderException struct{
 	message string
 }
 
-func (b borderException) Error() 
+func (b borderException) Error() string{
+
+}
