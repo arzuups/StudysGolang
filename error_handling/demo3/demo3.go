@@ -19,3 +19,5 @@ func predict(predict int) (string, error) {
 	
 	return "You know!", nil
 }
+
+func
