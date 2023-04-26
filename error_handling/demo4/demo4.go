@@ -7,6 +7,4 @@ import (
 type borderException struct{
 	parameter int
 	message string
-
-
 }
