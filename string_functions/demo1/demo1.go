@@ -10,6 +10,6 @@ func Demo1() {
 	fmt.Println(strings.Count(name, "r")) // => 1
 	fmt.Println(strings.Count(name, "z")) // => 1
 	fmt.Println(strings.Count(name, "b")) // => 0
-	fmt.Println(strings.Contains(name, "c"))
+	fmt.Println(strings.Contains(name, "c")) // => false
 }
 
