@@ -18,6 +18,6 @@ func Demo1() {
 	
 	if conclusion != -1 {
 		fmt.Println("There's the letter `A`")
-	}
+	} else {
 }
 
