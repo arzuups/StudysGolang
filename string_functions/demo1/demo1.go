@@ -15,5 +15,6 @@ func Demo1() {
 	fmt.Println(strings.Count(name, "u")) // => 1
 	
 	conclusion := strings.Index(name, "A")
+	if conclusion
 }
 
