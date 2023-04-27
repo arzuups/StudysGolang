@@ -20,5 +20,6 @@ func Demo1() {
 		fmt.Println("There's the letter `A`")
 	} else {
 		fmt.Println("No letter `A`")
+	}
 }
 
