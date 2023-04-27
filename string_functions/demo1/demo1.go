@@ -16,6 +16,7 @@ func Demo1() {
 	
 	conclusion := strings.Index(name, "A")
 	if conclusion != -1 {
+		fmt.Println
 	}
 }
 
