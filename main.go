@@ -80,5 +80,5 @@ func main() {
 	//error_handling.Demo3()
 	//fmt.Println(error_handling.Predict2(140))
 	
-	//string_functions
+	//string_functions.Demo1
 }
