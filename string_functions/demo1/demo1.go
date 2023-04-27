@@ -5,4 +5,4 @@ import (
 	"strings"
 )
 
-func
+func Demo1
