@@ -21,6 +21,6 @@ func Demo1() {
 	} else {
 		fmt.Println("No letter `A`")
 	}
-	fmt.Println
+	fmt.Println(strings.ToLower(name))
 }
 
