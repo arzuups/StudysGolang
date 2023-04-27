@@ -6,6 +6,6 @@ import (
 )
 
 func Demo1() {
-	name
+	name := 
 }
 
