@@ -22,6 +22,6 @@ func Demo1() {
 		fmt.Println("No letter `A`")
 	}
 	fmt.Println(strings.ToLower(name)) // => arzu
-	fmt.Println(strings.ToUpper(name))
+	fmt.Println(strings.ToUpper(name)) // => ARZU
 }
 
