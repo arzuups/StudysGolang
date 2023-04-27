@@ -8,6 +8,6 @@ import (
 func Demo1() {
 	name := "Arzu"
 	fmt.Println(strings.Count(name, "r")) // => 1
-	fmt.Println(strings.Count(name, "z")) 
+	fmt.Println(strings.Count(name, "z")) // => 1
 }
 
