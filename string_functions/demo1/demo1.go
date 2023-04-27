@@ -21,5 +21,6 @@ func Demo1() {
 	} else {
 		fmt.Println("No letter `A`")
 	}
+	fmt.Println
 }
 
