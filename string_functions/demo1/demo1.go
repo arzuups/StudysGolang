@@ -1,1 +1,1 @@
-package string_
+package string_functions
