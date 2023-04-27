@@ -7,5 +7,6 @@ import (
 
 func Demo1() {
 	name := "Arzu"
+	fmt.Println(strings.Count(name, "r"))
 }
 
