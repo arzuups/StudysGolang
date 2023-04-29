@@ -29,6 +29,12 @@
       "productName": "Microphone",
       "categoryId": 1,
       "unitPrice": 2500
+    },
+    {
+      "id": 6,
+      "productName": "Telephone",
+      "categoryId": 1,
+      "unitPrice": 17000
     }
   ],
   "categories": [
