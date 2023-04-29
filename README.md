@@ -4,6 +4,10 @@ StudysGolang
 ```  E:\StudysGolang> go mod init <module name> ```
 
 - Create A Folder : 
-``` C:\> mkdir goWorks --> C:\> cd goWorks ```
+``` E:\> mkdir goWorks --> C:\> cd goWorks ```
 
-- Terminal Output: ```  E:\StudysGolang> go run main.go ```
+- Terminal Output: 
+```  E:\StudysGolang> go run main.go ```
+
+- Install JSON Server:
+```  E:\StudysGolang> npm install -g json-server```
