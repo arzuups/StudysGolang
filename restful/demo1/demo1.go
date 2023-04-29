@@ -15,7 +15,7 @@ type Todo struct {
 	Completed bool   `json:"completed"`
 }
 
-// GET REQUEST
+// GET Request
 func Demo1() {
 	response, err := http.Get("https://jsonplaceholder.typicode.com/todos/1")
 	if err != nil {
