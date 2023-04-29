@@ -15,6 +15,3 @@ StudysGolang
 
 - Running The JSON Server:
 ```json-server --watch db.json```
-  - If you get an error and it doesn't work, type ```npx``` at the beginning, leave a space and type ```json-server --watch db.json``` again.
-
-  - So it is like this : ```E:\StudysGolang> npx json-server --watch db.json```
