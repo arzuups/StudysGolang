@@ -85,4 +85,6 @@ func main() {
 
 	//restful.Demo1()
 	//restful.Demo2()
+	
+	//project.AddProduct()
 }
