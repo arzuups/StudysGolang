@@ -15,5 +15,5 @@ func Demo2() {
 	conclusion := s.Join(letters, "/") // => a/r/z/u/w/s
 	fmt.Println(conclusion) // =>a/r/z/u/w/s
 	
-	fmt.Println(s.Replace
+	fmt.Println(s.Replace(conclusion, "*", "+", 3))
 } 
