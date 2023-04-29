@@ -16,4 +16,5 @@ func Demo2() {
 	fmt.Println(conclusion) // =>a/r/z/u/w/s
 	
 	fmt.Println(s.Replace(conclusion, "*", "+", 3))
+	fmt.Println(s.Split(conclusion, "-"))
 } 
