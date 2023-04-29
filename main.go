@@ -88,4 +88,5 @@ func main() {
 	
 	//project.AddProduct()
 	//project.AddProduct2()
+	//project.AddProduct3()
 }
