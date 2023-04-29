@@ -12,5 +12,5 @@ func Demo2() {
 	fmt.Println(s.Index(name, "zu"))  // => 2
 	
 	letters := []string{"a", "r", "z", "u", "w", "s"}
-	conclusion := s.Join(letters, "/")
+	conclusion := s.Join(letters, "/") // => a/r/z/u/w/s
 } 
