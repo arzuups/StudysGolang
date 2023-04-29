@@ -14,4 +14,6 @@ func Demo2() {
 	letters := []string{"a", "r", "z", "u", "w", "s"}
 	conclusion := s.Join(letters, "/") // => a/r/z/u/w/s
 	fmt.Println(conclusion) // =>a/r/z/u/w/s
+	
+	fmt.Println(s.Replace
 } 
