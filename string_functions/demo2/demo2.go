@@ -11,5 +11,5 @@ func Demo2() {
 	fmt.Println(s.HasSuffix(name, "el")) // => false
 	fmt.Println(s.Index(name, "zu"))  // => 2
 	
-	letters := []string
+	letters := []string{"a", "r", "z", "u", "w", "s"}
 } 
