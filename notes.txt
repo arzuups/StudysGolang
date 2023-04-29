@@ -44,3 +44,4 @@ Else => The "else" construct specifies a block of code that will be executed if 
 =>An int that is an address is different from an int that is a value.
 =>Arrays do not operate on their values, they are sent with their addresses in memory.
 =>In Go, "get" is a command used to install, update and manage packages.
+=>In Go, "post" is a method for sending HTTP requests to the server.
