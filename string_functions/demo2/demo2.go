@@ -10,4 +10,6 @@ func Demo2() {
 	fmt.Println(s.HasPrefix(name, "Ar")) // => true
 	fmt.Println(s.HasSuffix(name, "el")) // => false
 	fmt.Println(s.Index(name, "zu"))  // => 2
+	
+	letters := []string
 } 
