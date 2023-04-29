@@ -2,7 +2,7 @@ package string_functions
 
 import (
 	"fmt"
-	s "strings"
+	"strings"
 )
 
 func Demo1() {
