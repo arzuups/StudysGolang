@@ -14,4 +14,4 @@ StudysGolang
   - *ATTENTION! =>* If you get an error in JSON Server installation, install it from ```nodejs.org``` site, close and reopen your workspace.
 
 - Running The JSON Server:
-```json-server --watch db.json```
+```E:\StudysGolang> npm json-server --watch db.json```
