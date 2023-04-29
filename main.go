@@ -81,5 +81,5 @@ func main() {
 	//fmt.Println(error_handling.Predict2(140))
 	
 	//string_functions.Demo1()
-	//string_
+	//string_functions
 }
