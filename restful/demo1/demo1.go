@@ -1,3 +1,4 @@
+/*You need to run main.go to print to the terminal.*/
 package restful
 
 import (
@@ -14,7 +15,7 @@ type Todo struct {
 	Completed bool   `json:"completed"`
 }
 
-//GET REQUEST
+// GET REQUEST
 func Demo1() {
 	response, err := http.Get("https://jsonplaceholder.typicode.com/todos/1")
 	if err != nil {
