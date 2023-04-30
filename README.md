@@ -32,10 +32,10 @@ You can find the download link in the KEY POINTS section.You also need to downlo
 DOWNLOAD LINKS
 ---
 
-- Go Download Link: [GO Download](https://go.dev/dl/)
+- Go Download Link: [Golang](https://go.dev/dl/)
   - Click on the one appropriate for your computer and it will download.
   
-- Visual Studio Code Download Link: [Visual Studio Code Download](https://code.visualstudio.com/download)
+- Visual Studio Code Download Link: [Visual Studio Code](https://code.visualstudio.com/download)
   - Click on the one appropriate for your computer and it will download.
   
 ---
