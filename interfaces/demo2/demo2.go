@@ -40,8 +40,8 @@ func CalculateMonthlyPayment(credits []CreditCalculator) float64 {
 
 func Demo2() {
 	credit1 := Mortgage{creditPaymentTotal: 100000, rate: 10, address: "Istanbul"}
-	credit2 := Mortgage{creditPaymentTotal: 50000, rate: 16, address: "Izmır"}
-	credit3 := Car{creditPaymentTotal: 80000, rate: 8, carInfo: "Konya"}
+	credit2 := Mortgage{creditPaymentTotal: 50000, rate: 5, address: "Izmır"}
+	credit3 := Car{creditPaymentTotal: 80000, rate: 15, carInfo: "Konya"}
 
 	credits := []CreditCalculator{credit1, credit2, credit3}
 	total := CalculateMonthlyPayment(credits)
