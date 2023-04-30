@@ -1,5 +1,24 @@
-StudysGolang
--------------------------------------------------------
+### CONTENTS
+---
+- [variables](https://github.com/a1zuws/StudysGolang/tree/main/variables)
+- [conditionals](https://github.com/a1zuws/StudysGolang/tree/main/conditionals)
+- [loops](https://github.com/a1zuws/StudysGolang/tree/main/loops)
+- [arrays](https://github.com/a1zuws/StudysGolang/tree/main/arrays)
+- [slices](https://github.com/a1zuws/StudysGolang/tree/main/slices)
+- [functions](https://github.com/a1zuws/StudysGolang/tree/main/functions)
+- [maps](https://github.com/a1zuws/StudysGolang/tree/main/maps)
+- [for_range](https://github.com/a1zuws/StudysGolang/tree/main/for_range)
+- [pointers](https://github.com/a1zuws/StudysGolang/tree/main/pointers)
+- [structs](https://github.com/a1zuws/StudysGolang/tree/main/structs)
+- [goroutines](https://github.com/a1zuws/StudysGolang/tree/main/goroutines)
+- [channels](https://github.com/a1zuws/StudysGolang/tree/main/channels)
+- [interfaces](https://github.com/a1zuws/StudysGolang/tree/main/interfaces)
+- [defer_statement](https://github.com/a1zuws/StudysGolang/tree/main/defer_statement)
+- [error_handling](https://github.com/a1zuws/StudysGolang/tree/main/error_handling)
+- [string_functions](https://github.com/a1zuws/StudysGolang/tree/main/string_functions)
+- [restful](https://github.com/a1zuws/StudysGolang/tree/main/restful)
+- [project](https://github.com/a1zuws/StudysGolang/tree/main/project)
+
 - Module Creation :
 ``` E:\StudysGolang> go mod init <module name> ```
 
