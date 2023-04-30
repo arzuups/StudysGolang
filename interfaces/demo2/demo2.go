@@ -29,7 +29,7 @@ func (c Car) Calculate() float64 {
 	return c.creditPaymentTotal * c.rate / 12
 }
 
-func CalculateMonthlyPayment(credits []CreditCalculator) float64
+func CalculateMonthlyPayment(credits []CreditCalculator) float64 {
 	paymentTotal := 0.0
 
 	for i := 0; i < len(credits); i++ {
