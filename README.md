@@ -1,5 +1,6 @@
-### CONTENTS
+CONTENTS
 ---
+
 - [variables](https://github.com/a1zuws/StudysGolang/tree/main/variables)
 - [conditionals](https://github.com/a1zuws/StudysGolang/tree/main/conditionals)
 - [loops](https://github.com/a1zuws/StudysGolang/tree/main/loops)
@@ -18,6 +19,9 @@
 - [string_functions](https://github.com/a1zuws/StudysGolang/tree/main/string_functions)
 - [restful](https://github.com/a1zuws/StudysGolang/tree/main/restful)
 - [project](https://github.com/a1zuws/StudysGolang/tree/main/project)
+
+HIGHLIGHTS
+---
 
 - Module Creation :
 ``` E:\StudysGolang> go mod init <module name> ```
