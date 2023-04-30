@@ -1,4 +1,12 @@
-CONTENTS
+**REPO STATEMENT**
+---
+
+This repo is prepared for basic and intermediate understanding of Go Programming Language.The workspace of the codes written here is Visual Studio Code.
+You can find the download link in the KEY POINTS section.You also need to download to install Go in Visual Studio Code.Its link is also in the KEY POINTS section.
+
+---
+
+**REPO CONTENTS**
 ---
 
 - [variables](https://github.com/a1zuws/StudysGolang/tree/main/variables)
@@ -20,7 +28,19 @@ CONTENTS
 - [restful](https://github.com/a1zuws/StudysGolang/tree/main/restful)
 - [project](https://github.com/a1zuws/StudysGolang/tree/main/project)
 
-HIGHLIGHTS
+---
+DOWNLOAD LINKS
+---
+
+- Go Download Link: [GO Download](https://go.dev/dl/)
+  - Click on the one appropriate for your computer and it will download.
+  
+- Visual Studio Code Download Link: [Visual Studio Code Download](https://code.visualstudio.com/download)
+  - Click on the one appropriate for your computer and it will download.
+  
+---
+
+**KEY POINTS**
 ---
 
 - Module Creation :
@@ -40,3 +60,5 @@ HIGHLIGHTS
 ```E:\StudysGolang> json-server --watch db.json```
   - If it fails after running it, type `npx` followed by a space and then `json-server --watch db.json` and run it again.
   - So like this : `E:\StudysGolang> npx json-server --watch db.json`
+  
+---
