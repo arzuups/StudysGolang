@@ -8,8 +8,8 @@ import (
 
 func main() {
 	arr := []int{29, 8, 5, 15, 32, 18, 1, 40, 63, 34}
-
-	for i := 0; i < len(arr); i++ {
+	
+	for i := 0; i < len(arr); i++ { // A loop is started to traverse the array.
 
 		for j := i; j < len(arr); j++ {
 
