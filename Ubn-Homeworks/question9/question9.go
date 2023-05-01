@@ -19,6 +19,6 @@ func main() {
 			}
 		}
 	}
-	fmt.Println(arr)
+	fmt.Println(arr) // Prints the array to the screen.
 
 }
