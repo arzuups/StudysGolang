@@ -13,7 +13,7 @@ func main() {
 
 		for j := i; j < len(arr); j++ { // A nested loop is started.
 
-			if arr[j] < arr[i] {
+			if arr[j] < arr[i] { // If element j is less than element i...
 
 				arr[i], arr[j] = arr[j], arr[i]
 			}
