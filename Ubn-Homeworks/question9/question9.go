@@ -11,7 +11,7 @@ func main() {
 	
 	for i := 0; i < len(arr); i++ { // A loop is started to traverse the array.
 
-		for j := i; j < len(arr); j++ {
+		for j := i; j < len(arr); j++ { // A nested loop is started.
 
 			if arr[j] < arr[i] {
 
