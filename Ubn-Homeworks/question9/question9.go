@@ -15,7 +15,7 @@ func main() {
 
 			if arr[j] < arr[i] { // If element j is less than element i...
 
-				arr[i], arr[j] = arr[j], arr[i]
+				arr[i], arr[j] = arr[j], arr[i] // ... i. and j. elements are swapped.
 			}
 		}
 	}
