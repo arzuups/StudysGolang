@@ -47,19 +47,19 @@ DOWNLOAD LINKS
 - Module Creation :
 ``` E:\StudysGolang> go mod init <module name> ```
   - *NOTE =>* You can replace <module name> with any module name you want.
-  - *EXAMPLE ==* ```E:\StudysGolang>go mod init goWorks```
+  - *EXAMPLE ==* ```C:\StudysGolang>go mod init goWorks```
 
 - Create A Folder : 
-``` E:\> mkdir goWorks --> E:\> cd goWorks ```
+``` C:\> mkdir goWorks --> E:\> cd goWorks ```
 
 - Terminal Output: 
-``` E:\StudysGolang> go run main.go ```
+``` C:\StudysGolang> go run main.go ```
 
 - Install JSON Server:
-``` E:\StudysGolang> npm install -g json-server```
+``` C:\StudysGolang> npm install -g json-server```
   - *ATTENTION! =>* If you get an error in JSON Server installation, install it from [Node.js](https://nodejs.org) , close and reopen your workspace.
 
 - Running The JSON Server:
-```E:\StudysGolang> json-server --watch db.json```
+```C:\StudysGolang> json-server --watch db.json```
   - If it fails after running it, type `npx` followed by a space and then `json-server --watch db.json` and run it again.
-  - So like this : `E:\StudysGolang> npx json-server --watch db.json`
+  - So like this : `C:\StudysGolang> npx json-server --watch db.json`
