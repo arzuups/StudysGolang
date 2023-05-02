@@ -46,6 +46,8 @@ DOWNLOAD LINKS
 
 - Module Creation :
 ``` E:\StudysGolang> go mod init <module name> ```
+  - *NOTE =>* You can replace <module name> with any module name you want.
+  - *EXAMPLE ==* ```E:\StudysGolang>go mod init goWorks```
 
 - Create A Folder : 
 ``` E:\> mkdir goWorks --> E:\> cd goWorks ```
