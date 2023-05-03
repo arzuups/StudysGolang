@@ -1,5 +1,5 @@
 **REPO STATEMENT**
----  
+---
 
 This repo is prepared for basic and intermediate understanding of Go Programming Language.The workspace of the codes written here is Visual Studio Code.
 You can find the download link in the KEY POINTS section.You also need to download to install Go in Visual Studio Code.Its link is also in the KEY POINTS section.
