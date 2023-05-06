@@ -1,4 +1,4 @@
-/*You need to run main.go to print to the terminal.*/ 
+/*You need to run main.go to print to the terminal.*/
 package channels
 
 import (
