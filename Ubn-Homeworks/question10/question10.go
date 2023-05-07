@@ -1,4 +1,4 @@
-/*When an array is given, prepare the code and flowchart that gives the number of elements in the array.
+/*When an array is given, prepare the code and flowchart that gives the number of elements in the array.  
 For example :
 Input : arr[] = {3, 3, 3, 2, 3, 4, 1} 
 Output : There are 3 "3" elements, 1 "2" element, 1 "4" element, 1 "1" element.
