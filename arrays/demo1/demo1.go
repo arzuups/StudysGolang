@@ -11,3 +11,4 @@ func Demo1() {
 	numbers[3] = 23.7
 	fmt.Println(numbers[3])
 }
+   
