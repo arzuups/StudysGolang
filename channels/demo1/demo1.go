@@ -1,5 +1,5 @@
 /*You need to run main.go to print to the terminal.*/
-package channels  
+package channels
 
 import (
 	"fmt"
