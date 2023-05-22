@@ -2,7 +2,7 @@
 1-)Create two variables n, m and assign values to them.
 2) Create a variable called sum.
 3) Add the variables n and m and save the result in the variable sum.
-4-)Print the result.*/
+4-)Print the result.*/ 
 
 package main
 
