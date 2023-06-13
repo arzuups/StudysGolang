@@ -58,21 +58,21 @@ C:\> mkdir goWorks --> E:\> cd goWorks
 
 Terminal Output : 
 ``` 
-  C:\StudysGolang> go run main.go 
+C:\StudysGolang> go run main.go 
   ```
 
 Install JSON Server :
 ``` 
-  C:\StudysGolang> npm install -g json-server
+C:\StudysGolang> npm install -g json-server
   ```
   - *ATTENTION! =>* If you get an error in JSON Server installation, install it from [Node.js](https://nodejs.org) , close and reopen your workspace.
 
 Running The JSON Server :
 ```
-  C:\StudysGolang> json-server --watch db.json
+C:\StudysGolang> json-server --watch db.json
   ```
   - *ATTENTION! =>* If it fails after running it, type `npx` followed by a space and then `json-server --watch db.json` and run it again.
   - So like this : 
-  ```
-  C:\StudysGolang> npx json-server --watch db.json
+```
+C:\StudysGolang> npx json-server --watch db.json
   ```
