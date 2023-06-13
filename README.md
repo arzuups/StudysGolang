@@ -56,7 +56,7 @@ Create A Folder :
 C:\> mkdir goWorks --> E:\> cd goWorks 
   ```
 
-Terminal Output: 
+Terminal Output : 
 ``` 
   C:\StudysGolang> go run main.go 
   ```
