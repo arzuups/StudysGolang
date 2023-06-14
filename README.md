@@ -53,7 +53,7 @@ E:\StudysGolang> go mod init <module name>
   
 Create A Folder : 
 ``` 
-C:\> mkdir goWorks --> E:\> cd goWorks 
+C:\> mkdir goWorks --> C:\> cd goWorks 
   ```
 
 Terminal Output : 
