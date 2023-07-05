@@ -5,7 +5,6 @@ This repo is prepared for basic and intermediate understanding of Go Programming
 You can find the download link in the KEY POINTS section. You also need to download to install Go in Visual Studio Code. Its link is also in the KEY POINTS section.
 
 
-
 **REPO CONTENTS**
 ---
 *NOTES =>* The folders named [Ubn-Homeworks](https://github.com/arzuups/StudysGolang/tree/main/Ubn-Homeworks) and [Ubn-Lessons](https://github.com/arzuups/StudysGolang/tree/main/Ubn-Lessons) are files that I learned from another software site and passed to the code.
