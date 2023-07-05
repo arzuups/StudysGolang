@@ -8,7 +8,7 @@ You can find the download link in the KEY POINTS section. You also need to downl
 
 **REPO CONTENTS**
 ---
-*NOTES=>*The folders named [Ubn-Homeworks](https://github.com/arzuups/StudysGolang/tree/main/Ubn-Homeworks) and [Ubn-Lessons](https://github.com/arzuups/StudysGolang/tree/main/Ubn-Lessons) are files that I learned from another software site and passed to the code.
+*NOTES =>* The folders named [Ubn-Homeworks](https://github.com/arzuups/StudysGolang/tree/main/Ubn-Homeworks) and [Ubn-Lessons](https://github.com/arzuups/StudysGolang/tree/main/Ubn-Lessons) are files that I learned from another software site and passed to the code.
 
 
 - [variables](https://github.com/arzuups/StudysGolang/tree/main/variables)
@@ -22,13 +22,13 @@ You can find the download link in the KEY POINTS section. You also need to downl
 - [pointers](https://github.com/arzuups/StudysGolang/tree/main/pointers)
 - [structs](https://github.com/arzuups/StudysGolang/tree/main/structs)
 - [goroutines](https://github.com/arzuups/StudysGolang/tree/main/goroutines)
-- [channels](https://github.com/a1zuws/StudysGolang/tree/main/channels)
-- [interfaces](https://github.com/a1zuws/StudysGolang/tree/main/interfaces)
-- [defer_statement](https://github.com/a1zuws/StudysGolang/tree/main/defer_statement)
-- [error_handling](https://github.com/a1zuws/StudysGolang/tree/main/error_handling)
-- [string_functions](https://github.com/a1zuws/StudysGolang/tree/main/string_functions)
-- [restful](https://github.com/a1zuws/StudysGolang/tree/main/restful)
-- [project](https://github.com/a1zuws/StudysGolang/tree/main/project)
+- [channels](https://github.com/arzuups/StudysGolang/tree/main/channels)
+- [interfaces](https://github.com/arzuups/StudysGolang/tree/main/interfaces)
+- [defer_statement](https://github.com/arzuups/StudysGolang/tree/main/defer_statement)
+- [error_handling](https://github.com/arzuups/StudysGolang/tree/main/error_handling)
+- [string_functions](https://github.com/arzuups/StudysGolang/tree/main/string_functions)
+- [restful](https://github.com/arzuups/StudysGolang/tree/main/restful)
+- [project](https://github.com/arzuups/StudysGolang/tree/main/project)
 
 
 
