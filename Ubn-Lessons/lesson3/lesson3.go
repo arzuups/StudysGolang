@@ -28,4 +28,15 @@ func main() {
 	var aktifMi bool = false
 	fmt.Println(aktifMi)
 
+	//LİTTLE EXAMPLE//
+	var myName string = "Arzu" + " " + "Demir" //If the "" sign is placed and a space is inserted between it, a space is inserted between the two words.
+	var myAge int = 14
+	var myHeight float32 = 1.70
+	var isItTrue bool = true
+
+	fmt.Println(myName)
+	fmt.Println(myAge)
+	fmt.Println(myHeight)
+	fmt.Println(isItTrue)
+
 }
