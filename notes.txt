@@ -1,6 +1,6 @@
 =>The "main" package is the starting point of the Go program and the "main()" function in the "main" package runs the program.
 =>"func" keyword is used to define a function in Go.
-=>=>In Go Language, the content of each function always starts with "{".
+=>In Go Language, the content of each function always starts with "{".
 =>In Go, every function always ends with "}".
 =>"fmt.Print" prints the terminal results side by side.
 =>With the "fmt.Printf" function we can insert variables between textual sections.
@@ -26,9 +26,9 @@ kdv3 =: 39.4
 =>"fmt.Sprintf" is a function that provides formatting functionality.
 
 /* IF - ELSE IF - ELSE
-If => The "if" construct checks if the specified condition is true and if so, executes the specified block of code.
-Else ıf => The "else if" structure checks the next condition if the condition of the previous "if" structure is false.It is used when more than one condition needs to be checked.
-Else => The "else" construct specifies a block of code that will be executed if no conditions are met. This construct has no conditions and can only be used once. */
+IF => The "if" construct checks if the specified condition is true and if so, executes the specified block of code.
+ELSE IF => The "else if" structure checks the next condition if the condition of the previous "if" structure is false.It is used when more than one condition needs to be checked.
+ELSE => The "else" construct specifies a block of code that will be executed if no conditions are met. This construct has no conditions and can only be used once. */
 
 =>"For" means infinite loop.
 =>"Arrays" are used to hold data of the same data type.
@@ -45,3 +45,4 @@ Else => The "else" construct specifies a block of code that will be executed if 
 =>Arrays do not operate on their values, they are sent with their addresses in memory.
 =>In Go, "get" is a command used to install, update and manage packages.
 =>In Go, "post" is a method for sending HTTP requests to the server.
+=>If the "" sign is placed and a space is inserted between it, a space is inserted between the two words.
