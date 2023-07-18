@@ -32,6 +32,6 @@ func main() {
 
 func combineHourMinuteSentence(sentence string, hour string, minute string) string {
     time := sentence + " " + "=" + " " + hour + ":" + minute
-    fmt.Println(time)
+    //fmt.Println(time)
     return time
 }
