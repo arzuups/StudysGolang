@@ -18,4 +18,18 @@ func main() {
 	//var movieStartTime string = movieStartSentence + " " + "=" + " " + MovieStartHour + ":" + movieStartMinute
 	var movieStartTime string = combineHourMinuteSentence(movieStartSentence, movieStartHour, movieStartMinute)
 	fmt.Println(movieStartTime)
+
+ var goSentence string = "My time to go"
+	var goHour string = "12"
+	var goMinute string = "00"
+	//var goTime string = goSentence + " " + "=" + " " + goHour + ":" + goMinute
+	var goTime string = combineHourMinuteSentence(goSentence, goHour, goMinute)
+	fmt.Println(goTime)
+
+}
+
+func combineHourMinuteSentence(sentence string, hour string, minute string) string {
+	time := sentence + " " + "=" + " " + hour + ":" + minute
+	fmt.Println(time)
+	return time
 }
