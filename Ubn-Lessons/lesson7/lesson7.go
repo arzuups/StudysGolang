@@ -15,24 +15,24 @@ func main() {
 	}
 
 	var myNumber int = 14
+	youNumber := 20
 
-	if myNumber <= 14 {
-		fmt.Println("My number is less than 14.")
-	} else if myNumber == 14 {
-		fmt.Println("My number is equal at 14.")
+	if myNumber <= youNumber {
+		fmt.Println("My number is less than youNumber.")
 	} else {
-		fmt.Println("My number is greater than 14.")
+		fmt.Println("My number is greater than youNumber.")
 	}
 
-	var productPrice int = 46
+	productPrice := 46
+	myProduct := 50
 
-	if productPrice <= 44 {
-		fmt.Println("My number is less than 14.")
-	} else if productPrice >= 44 {
-		fmt.Println("Product price is greater than 44.")
+	if productPrice >= myProduct {
+		fmt.Println("Product price is greater than my product.")
+	} else if productPrice == myProduct {
+		fmt.Println("Product price is equal than my product.")
 	} else {
-		fmt.Println("Product price is equal at 44.")
-	}
+		fmt.Println("Product price is less than my product.")
 
+	}
 }
 
