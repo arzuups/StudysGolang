@@ -18,9 +18,11 @@ func main() {
 	youNumber := 20
 
 	if myNumber <= youNumber {
-		fmt.Println("My number is less than youNumber.")
-	} else {
-		fmt.Println("My number is greater than youNumber.")
+		fmt.Println("myNumber is less than youNumber.")
+	} else if myNumber == youNumber{
+		fmt.Println("myNumber is equal than youNumber.")
+	}else{
+		fmt.Println("myNumber is greater than youNumber")
 	}
 
 	productPrice := 46
