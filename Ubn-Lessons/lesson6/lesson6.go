@@ -7,6 +7,8 @@ import (
 
 func main() {
 
+    //FUNCTIONS
+
     var cinemaOpenSentence string = "Cinema opening time"
     var cinemaOpenHour string = "10"
     var cinemaOpenMinute string = "00"
