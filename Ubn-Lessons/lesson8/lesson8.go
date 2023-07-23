@@ -5,6 +5,7 @@ import "fmt"
 
 func main() {
 
+	//CONDITIONALS
 	// && => And => Ve
 	// || => Or => Veya
 	// true && true = true
