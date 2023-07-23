@@ -7,6 +7,8 @@ import (
 
 func main() {
 
+	//FUNCTIONS
+
 	day := "25"
 	month := "08"
 	year := "2008"
