@@ -5,6 +5,7 @@ import "fmt"
 
 func main() {
 
+	//CONDITIONALS
 	//ELSE-İF == bool
 	var isİtComing bool = true
 
