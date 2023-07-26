@@ -1,4 +1,4 @@
-//Go Basic Lesson-3
+//GoLang Basic Lesson-3
 package main
 
 import (
