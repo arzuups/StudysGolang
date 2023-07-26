@@ -1,4 +1,4 @@
-//Golang Basic Lesson-10
+// Golang Basic Lesson-10
 package main
 
 import "fmt"
