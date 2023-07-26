@@ -1,4 +1,4 @@
-//Go Basic Lesson-2
+//Golang Basic Lesson-2
 package main
 
 func main() {
