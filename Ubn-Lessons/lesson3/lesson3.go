@@ -1,9 +1,7 @@
-//GoLang Basic Lesson-3
+// Golang Basic Lesson-3
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
 func main() {
 	//VARIABLES
