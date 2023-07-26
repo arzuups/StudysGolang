@@ -1,9 +1,7 @@
 // Golang Basic Lesson-6
 package main
 
-import (
-    "fmt"
-)
+import "fmt"
 
 func main() {
 
