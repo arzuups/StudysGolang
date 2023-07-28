@@ -48,7 +48,7 @@ DOWNLOAD LINKS
 Module Creation :
 
 ``` 
-E:\StudysGolang> go mod init <module name> 
+C:\StudysGolang> go mod init <module name> 
 ```
 - *NOTE =>* You can replace <module name> with any module name you want.
   
