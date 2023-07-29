@@ -36,3 +36,8 @@
 - In Go, "get" is a command used to install, update and manage packages.
 - In Go, "post" is a method for sending HTTP requests to the server.
 - If the "" sign is placed and a space is inserted between it, a space is inserted between the two words.
+- rand.Intn() => It takes a random number between 0 and 100 but not 100.
+- time.Sleep(time.Second) => Holds for the entered number and prints the next value.
+- // %s == Used for String values.
+- // %d == Used for İnt values.
+- // %f == Used for float32(etc) values.
