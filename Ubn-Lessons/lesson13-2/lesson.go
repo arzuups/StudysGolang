@@ -1,5 +1,4 @@
 // Golang Basic Lesson 13-2
-// Golang Basic Lesson 13-2
 package main
 
 import (
@@ -29,9 +28,9 @@ func main() {
 	gamer2Attack := 0
 
 	fmt.Println("Gamer 1 card selection:")
-	fmt.Scanf("%d", &gamer1Attack)
+	fmt.Scanf("%d\n", &gamer1Attack)
 	fmt.Println("Gamer 2 card selection:")
-	fmt.Scanf("%d", &gamer2Attack)
+	fmt.Scanf("%d\n", &gamer2Attack)
 
 	fmt.Printf("Gamer 1 thrown dice: %d\n", gamer1Attack)
 	fmt.Printf("Gamer 2 thrown dice: %d\n", gamer2Attack)
