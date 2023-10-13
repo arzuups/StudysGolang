@@ -20,14 +20,14 @@ func main() {
 	var randomNumbers [25]int = [25]int{8, 43, 56, 786, 34, 23, 45, 67, 89, 12, 134, 56, 178, 90, 23, 145, 57, 89, 12, 34, 56, 78, 90, 23, 45}
 	var oddNumberQuantity int = 0
 	var evenNumberQuantity int = 0
-	var isİtAValidSeries bool = true
+	var isİtAvalidSeries bool = true
 
 	for i := 0; i < len(randomNumbers); i++ {
 
 		var nextNumber int = randomNumbers[i]
 		fmt.Println(nextNumber)
 		if nextNumber == 0 {
-			isİtAValidSeries = false
+			isİtAvalidSeries = false
 			break
 		}
 		if nextNumber > 99 {
@@ -41,7 +41,7 @@ func main() {
 		}
 	}
 
-	if isİtAValidSeries {
+	if isİtAvalidSeries {
 		fmt.Println("Odd Number Quantity: ", oddNumberQuantity)
 		fmt.Println("Even Number Quantity: ", evenNumberQuantity)
 	} else {
